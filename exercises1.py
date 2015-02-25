@@ -10,7 +10,7 @@ y2=5
 
 
 #Comparando si x1 y x2 son iguales a x2 y r2
-if x1 or x1 or y1 == r1 or r2 or y2:
+if x1 or r1 or y1 == r1 or r2 or y2:
 	print "HOLA FUNCIONA"
 else:
 	print "Estas Loco"
